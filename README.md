@@ -39,8 +39,9 @@ whit cypress like in the video walkthough
 > none
 
 > [!TIP]
-> none
-
+> <img width="1317" alt="ScreeN" src="https://github.com/sieke13/CypressTest/blob/main/test0.jpg" />
+> <img width="1317" alt="ScreeN" src="https://github.com/sieke13/CypressTest/blob/main/test1.jpg" />
+> <img width="1317" alt="ScreeN" src="https://github.com/sieke13/CypressTest/blob/main/test2.jpg" />
 ## License
 This project is licensed under the MIT license.
 
