@@ -16,11 +16,11 @@ make test for a quiz website
 - [Questions](#questions)
 
 ## Installation
-1.-npm run build 
-2.-start the server npm run develop 
-3.-open a new terminal 
-4.-start the fisrst test  npm test 
-5.-open cypress to continue testing npm test-gui
+-1.-npm run build 
+-2.-start the server npm run develop 
+-3.-open a new terminal 
+-4.-start the fisrst test  npm test 
+-5.-open cypress to continue testing npm test-gui
 
 ## Usage
 making test
